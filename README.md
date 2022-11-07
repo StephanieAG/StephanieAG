@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StephanieAG
-- 👀 I’m interested in hiking, learning new things, and socially responsible businesses.
+- 👀 I’m interested in hiking, learning new things, and doing your best.
 - 🌱 I’m currently learning how to code. 
-- 💞️ I’m looking to collaborate on my projects. 
+- 💞️ I’m looking to collaborate on projects. 
 - 📫 How to reach me: https://www.linkedin.com/in/stephanieagoulet/ 
 
 <!---
