@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stephanie.
+👋 Hi, I’m Stephanie.
 
 <!---
 StephanieAG/StephanieAG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
